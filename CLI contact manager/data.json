@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Driton",
+        "phone": "+38349851451",
+        "email": null,
+        "tags": [
+            "father"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Valbona",
+        "phone": "+38349632958",
+        "email": null,
+        "tags": [
+            "mother"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Test",
+        "phone": null,
+        "email": null,
+        "tags": []
+    }
+]
