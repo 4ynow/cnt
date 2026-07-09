@@ -1,8 +1,5 @@
 # 📇 cnt (Contact Manager CLI)
 
-[![Python Version](https://shields.io)](https://python.org)
-[![License: MIT](https://shields.io)](https://opensource.org)
-
 A lightweight, zero-dependency Python CLI tool to manage contacts with JSON storage, validation, duplicate checks, and a built-in change log.
 
 ---
